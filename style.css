@@ -217,7 +217,6 @@
 .box {
     height: 400px;
     width: 23%;
-    /* border: 2px solid red; */
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
@@ -431,7 +430,6 @@ ul p {
 }
 
 .foot-panel5 ul{
-    /* border: 2px solid white; */
     margin: 5px;
     margin-top: 40px;
     padding: 10px;
